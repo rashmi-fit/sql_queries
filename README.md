@@ -23,3 +23,8 @@ Today i solved learnt Percentage of Users Attended a Contest
 - TotalUsers acts as a foundation like knowing the total number of people in a room
 - ContestRegistrations focuses on specific groups because it helps in counting how many people are in each team
 - Used round function and order by to get the result
+
+# Day5:
+
+- Used DATE_SUB (or similar functions) to compute dynamic date ranges instead of hardcoding start and end dates.
+- The BETWEEN clause helps cleanly filter rows within a range.
