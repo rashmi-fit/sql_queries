@@ -28,3 +28,8 @@ Today i solved learnt Percentage of Users Attended a Contest
 
 - Used DATE_SUB (or similar functions) to compute dynamic date ranges instead of hardcoding start and end dates.
 - The BETWEEN clause helps cleanly filter rows within a range.
+
+# Day6:
+
+- Its pretty easy today where it involves filtering conditions and the ordering (which is descending in this case)
+- Figuring out the odd numbered ID gives the movies which were not "boring"
