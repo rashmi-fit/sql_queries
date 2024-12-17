@@ -33,3 +33,16 @@ Today i solved learnt Percentage of Users Attended a Contest
 
 - Its pretty easy today where it involves filtering conditions and the ordering (which is descending in this case)
 - Figuring out the odd numbered ID gives the movies which were not "boring"
+
+# Day7:
+
+- Its bit tricky to solve today
+- I have used multiple cte to break down the complexity
+- Learnt more about COALESCE function today
+- Extract relevant columns and group transactions by `month` and `country`.
+- Metrics Calculation:
+   - Total transactions and their amounts.
+   - Approved transactions and their amounts (filtered where `state = 'approved'`).
+- Combining Results: Used a LEFT JOIN to merge total and approved metrics.
+- Handle Missing Data: Used `COALESCE` to replace `NULL` values with `0` for clarity.
+
