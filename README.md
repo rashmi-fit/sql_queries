@@ -46,3 +46,9 @@ Today i solved learnt Percentage of Users Attended a Contest
 - Combining Results: Used a LEFT JOIN to merge total and approved metrics.
 - Handle Missing Data: Used `COALESCE` to replace `NULL` values with `0` for clarity.
 
+# Day 8 :
+
+- CTEs: Simplified complex queries by breaking them into digestible parts.
+- Aggregations: I have Used COUNT() effectively to analyze data relationships and group characteristics.
+- Filtering Groups: Mastered HAVING to refine grouped data based on conditions.
+- Data Presentation: I have Ordered and structured query results meaningfully.
