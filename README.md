@@ -52,3 +52,12 @@ Today i solved learnt Percentage of Users Attended a Contest
 - Aggregations: I have Used COUNT() effectively to analyze data relationships and group characteristics.
 - Filtering Groups: Mastered HAVING to refine grouped data based on conditions.
 - Data Presentation: I have Ordered and structured query results meaningfully.
+
+# Day 9 :
+
+- Again i have used CTE intentionally to solve problems because in real world there would be so many data and tables involved.
+- I have used union all , having and other functions
+- It takes more time to execute .
+- Looked into other ways of solving in the solution section.
+- I feel i am getting rid of the fear of solving queries
+- I feel i can solve complex queries but not the simple ones. sometimes over engineering doesnt work
