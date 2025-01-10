@@ -61,3 +61,12 @@ Today i solved learnt Percentage of Users Attended a Contest
 - Looked into other ways of solving in the solution section.
 - I feel i am getting rid of the fear of solving queries
 - I feel i can solve complex queries but not the simple ones. sometimes over engineering doesnt work
+
+# Day10 :
+
+- CTE	->Simplifies complex queries into readable steps.
+- SUM/AVG() OVER	helps rolling calculations for cumulative and moving averages.
+- ROWS BETWEEN 	defines the range of rows in the sliding window.
+- ORDER BY in Window	Determines the sequence of rows for window operations.
+- LIMIT and OFFSET	Paginates the results, skipping rows and limiting output.
+- I have used all the above functions in this query, i found a lot complex than any of the queries that i have solved
