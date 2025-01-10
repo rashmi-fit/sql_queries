@@ -70,3 +70,9 @@ Today i solved learnt Percentage of Users Attended a Contest
 - ORDER BY in Window	Determines the sequence of rows for window operations.
 - LIMIT and OFFSET	Paginates the results, skipping rows and limiting output.
 - I have used all the above functions in this query, i found a lot complex than any of the queries that i have solved
+
+# Day11 :
+
+- Today i learnt about CONCAT(UPPER(SUBSTRING())) and same for the lower function
+- Looked into different approaches that people have used and read through the discussion to learn more
+
