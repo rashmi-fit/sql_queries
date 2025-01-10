@@ -93,3 +93,6 @@ Today i solved learnt Percentage of Users Attended a Contest
 
 - It was a bit tricky to understand where to use the join and conditional statement
 - It deletes all rows except the one with the smallest id for each email
+
+# Day 15 :
+  - Very staright forward and i was able to solve very quickly without looking into other resources
