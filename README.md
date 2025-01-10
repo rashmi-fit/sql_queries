@@ -87,3 +87,9 @@ Today i solved learnt Percentage of Users Attended a Contest
 - List Products: Creates a comma-separated list of unique products with `GROUP_CONCAT`.
 - Group By Date: Groups data by `sell_date` to analyze sales per day.
 - Readable Output: Uses column aliases (`num_sold`, `products`) for clarity.
+
+
+# Day 14 :
+
+- It was a bit tricky to understand where to use the join and conditional statement
+- It deletes all rows except the one with the smallest id for each email
