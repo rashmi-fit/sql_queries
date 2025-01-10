@@ -80,3 +80,10 @@ Today i solved learnt Percentage of Users Attended a Contest
 
 - Today i learnt about wildcards and how to use prefix and suffixes using '%'
 - This was pretty straight forward and kept me going
+
+# Day 13 :
+
+- Unique Count: Counts distinct products sold per date using `COUNT(DISTINCT product)`.
+- List Products: Creates a comma-separated list of unique products with `GROUP_CONCAT`.
+- Group By Date: Groups data by `sell_date` to analyze sales per day.
+- Readable Output: Uses column aliases (`num_sold`, `products`) for clarity.
