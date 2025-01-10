@@ -76,3 +76,7 @@ Today i solved learnt Percentage of Users Attended a Contest
 - Today i learnt about CONCAT(UPPER(SUBSTRING())) and same for the lower function
 - Looked into different approaches that people have used and read through the discussion to learn more
 
+# Day 12 :
+
+- Today i learnt about wildcards and how to use prefix and suffixes using '%'
+- This was pretty straight forward and kept me going
