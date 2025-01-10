@@ -96,3 +96,8 @@ Today i solved learnt Percentage of Users Attended a Contest
 
 # Day 15 :
   - Very staright forward and i was able to solve very quickly without looking into other resources
+
+# Day 16 :
+- I have used the wild card expressions like below (The prefix name is a string that may contain letters (upper or lower case), digits, underscore '_', period '.', and/or dash '-'. The prefix name must start with a letter.)
+- I have used https://regex101.com/ website for regex checker
+- It was a bit tricky even though i use wildcards or regex very often
